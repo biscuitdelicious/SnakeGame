@@ -4,7 +4,7 @@
 
 ## Why did I make it?
 
-I had to entertain myself somehow. I did it by making a snake game using `Tkinter`.
+I had to entertain myself somehow. I did it by making a snake game using `Turtle`.
 It's a simple game that I can play in offline or whenever I want to come back to the old
 games.
 
@@ -22,7 +22,7 @@ Only if I'm bored and want to see the kid from me.
 
 ## What did you learn from this?
 
-* Excelled in GUI development, primarily utilizing `Tkinter` module.
+* Excelled in GUI development, more specific on UX and UI.
 * Gained deep insights into `Turtle` module for graphics.
 * Enhanced understanding of classes and inheritance in Python.
 
